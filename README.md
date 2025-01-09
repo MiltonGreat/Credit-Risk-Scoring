@@ -69,4 +69,4 @@ To enhance the model’s ability to identify high-risk clients, consider:
 
 ### Source
 [
-Thank you to Kaggle for providing this dataset. This project demonstrates how credit risk modeling can aid financial institutions in managing risk and optimizing credit policies effectively.](https://www.kaggle.com/datasets/lihxlhx/give-me-some-credit)
+Thank you to Kaggle for providing this dataset. This project demonstrates how credit risk modeling can aid financial institutions in managing risk and optimizing credit policies effectively.](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)
